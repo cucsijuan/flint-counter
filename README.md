@@ -1,3 +1,5 @@
+> **Moved:** this plugin now lives in [flint-official-plugins](https://github.com/cucsijuan/flint-official-plugins/tree/main/counter). This repository is archived.
+
 # Counter
 
 Turns ```counter code blocks into a button that counts clicks in the note itself.
